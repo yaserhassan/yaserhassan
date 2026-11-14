@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Yasir Hassan 👋
 
-<!--
-**yaserhassan/yaserhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate (Information Security & Assurance) from 
+Universiti Sains Islam Malaysia (USIM).
 
-Here are some ideas to get you started:
+🔧 Hands-on experience monitoring and securing server infrastructure 
+through a 6-month IT Infrastructure internship at Shinjiru Technology 
+(Zabbix, server hardening, network troubleshooting).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Seeking entry-level roles in **Network Security / IT Infrastructure**.
+
+**Skills:** Networking Fundamentals · Zabbix · Wireshark · Linux Security · 
+Python · Vulnerability Assessment
+
+📌 **Featured project:** [quran_semantic_search](https://github.com/yaserhassan/quran_semantic_search) 
+— full-stack ML search engine with JWT auth, bcrypt, OAuth & reCAPTCHA
+
+📫 yasirhassan968@gmail.com · [LinkedIn](https://linkedin.com/in/yaser-hassan0)
